@@ -1,0 +1,22 @@
+Takeoff
+View Switching
+Descent
+Move BackwardLeft
+Move Right
+Move Backward
+Move BackwardRight
+Move Right
+Move BackwardRight
+Move Backward
+Move Right
+Move BackwardLeft
+Move BackwardRight
+Move Right
+Move ForwardRight
+Move Right
+Move ForwardRight
+Move Right
+Move ForwardRight
+Move Right
+Move BackwardRight
+Move Right

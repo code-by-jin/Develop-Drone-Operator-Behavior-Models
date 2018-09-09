@@ -1,0 +1,94 @@
+Rise 
+View Switching
+Move Backward 
+Move Left 
+Move Forward 
+Move Left 
+Move Forward 
+Move Left 
+Move Forward 
+Rise 
+Move Left 
+Move Forward 
+Rotate Right 
+Rotate Left 
+Move Left 
+Move Forward 
+Move Left 
+Move Forward 
+Move Left 
+Move Right 
+Move Forward 
+Move Right 
+Move Forward 
+Rotate Left 
+Rotate Left 
+Rotate Left 
+Rotate Left 
+Rotate Right 
+Descent 
+Rotate Right 
+Rise 
+Move Left 
+Rise 
+Rise 
+Move Forward 
+Rotate Right 
+Rise 
+Move Right 
+Move Forward 
+Rotate Right 
+Rotate Right 
+Descent 
+Descent 
+Rise 
+Rotate Right 
+Rise 
+Rise 
+Rise 
+Rise 
+Rise 
+Rise 
+Rotate Right 
+Rotate Left 
+Rise 
+Move Left 
+Move Forward 
+Rotate Right 
+Descent 
+Move Right 
+View Switching
+View Switching
+View Switching
+View Switching
+Rise 
+View Switching
+View Switching
+Move Left 
+Move Forward 
+Rise 
+Rise 
+Rise 
+Move Left 
+Move Forward 
+Move Left 
+Move Forward 
+Move Left 
+Rotate Right 
+Rotate Right 
+Rotate Right 
+Move Backward 
+Rise 
+Move Backward 
+Move Right 
+Move Forward 
+Move Left 
+Move Backward 
+Descent 
+Descent 
+Descent 
+Descent 
+Move Left 
+Descent 
+Descent 
+Descent 

@@ -1,0 +1,28 @@
+Takeoff
+Descent
+View Switching
+Descent
+Rise
+Rise
+Rise
+Rise
+Rise
+View Switching
+Rise
+Move BackwardLeft
+Move Backward
+Rotate Left
+Rotate Left
+Rise
+Move ForwardLeft
+Move Forward
+Move Backward
+Move BackwardLeft
+Move Backward
+Move BackwardLeft
+Rise
+Rotate Right
+Rise
+Rotate Right
+Descent
+Move BackwardRight

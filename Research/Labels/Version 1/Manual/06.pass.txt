@@ -1,0 +1,143 @@
+Takeoff
+View Switching
+Descent
+Move Left
+Move ForwardLeft
+Move Forward
+Move Left
+Move ForwardLeft
+Move Forward
+Move ForwardLeft
+Move Forward
+Move ForwardLeft
+Move Forward
+Move ForwardLeft
+Move Left
+Descent
+Move ForwardLeft
+Move Forward
+Move ForwardLeft
+Move Forward
+Rotate Right
+Descent
+Move ForwardLeft
+Move Forward
+Descent
+Rotate Left
+Move Right
+Move BackwardRight
+Descent
+Move Right
+Move BackwardRight
+Rise
+Descent
+Move Forward
+Move ForwardLeft
+Move Forward
+Move ForwardLeft
+Move Forward
+Move ForwardLeft
+Move Forward
+Move ForwardLeft
+Rise
+Move Forward
+Move Left
+Move ForwardLeft
+Move Forward
+Rise
+Descent
+Rotate Left
+Move ForwardLeft
+Move Forward
+Descent
+Move ForwardLeft
+Move Left
+Move ForwardLeft
+Move Forward
+Move ForwardLeft
+Descent
+Move Forward
+Move ForwardLeft
+Move Forward
+Descent
+Move Left
+Descent
+Rotate Right
+Rise
+Rotate Right
+Rise
+Move BackwardLeft
+Move Left
+Rotate Left
+Descent
+Move BackwardLeft
+Move Left
+Move ForwardLeft
+Move Left
+Move ForwardLeft
+Move Forward
+Move ForwardRight
+Move Forward
+Move ForwardRight
+Move Forward
+Move ForwardLeft
+Move Forward
+Descent
+Move Right
+Move ForwardRight
+Move Right
+Move ForwardRight
+Move BackwardRight
+Move Right
+Move ForwardRight
+Move Right
+Move ForwardRight
+Move Forward
+Move ForwardLeft
+Move Forward
+Move ForwardLeft
+Move Forward
+Rotate Left
+Descent
+Descent
+Rise
+Move ForwardRight
+Move Forward
+Move ForwardRight
+Move Forward
+Descent
+Rotate Left
+Move ForwardRight
+Move Right
+Move Forward
+Move ForwardLeft
+Move Forward
+Move ForwardLeft
+Move Forward
+Move Left
+Move ForwardLeft
+Move Forward
+Descent
+Move Left
+Move ForwardLeft
+Move Forward
+Move ForwardLeft
+Move Forward
+Move ForwardRight
+Move Forward
+Move ForwardLeft
+Move Forward
+Rotate Left
+Move Right
+Descent
+Rise
+Move Forward
+Move ForwardLeft
+Rotate Right
+Move ForwardRight
+Move Forward
+Move ForwardLeft
+Move Forward
+Move ForwardLeft
+Move Forward
+Land Here

@@ -1,0 +1,34 @@
+Takeoff
+Add Waypoint
+Execute Flightplan
+Launch Inspection Mode
+Rotate Right
+Rise
+Descent
+Move Forward
+Move Backward
+Rotate Left
+Descent
+Rotate Left
+Rotate Right
+Rise
+Move Forward
+Rise
+Move Forward
+Rotate Right
+Move Left
+Move Forward
+Rotate Right
+Move Forward
+Rotate Right
+Descent
+Move Forward
+Rotate Left
+Rotate Right
+Rotate Left
+Move Forward
+Rotate Right
+Rotate Left
+Move Forward
+Rotate Right
+Return to Supervisory Control

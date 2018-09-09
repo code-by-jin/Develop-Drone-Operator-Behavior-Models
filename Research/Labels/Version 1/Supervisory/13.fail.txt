@@ -1,0 +1,38 @@
+Launch Inspection Mode
+Return to Supervisory Control
+Takeoff
+Rise
+Move Forward
+Move Left
+Takeoff
+Rotate Left
+Rotate Right
+Rotate Left
+Move Forward
+Move Right
+Descent
+Rotate Right
+Move Backward
+Rotate Left
+Rotate Right
+Move Right
+Move Backward
+Move Forward
+Rise
+Move Forward
+Move Left
+Move Forward
+Move Backward
+Move Forward
+Move Forward
+Rotate Left
+Rotate Right
+Rotate Right
+Move Backward
+Rise
+Move Left
+Rotate Right
+Move Forward
+Move Left
+Descent
+Move Forward

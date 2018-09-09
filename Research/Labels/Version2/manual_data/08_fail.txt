@@ -1,0 +1,45 @@
+Rise
+View Switching
+Descent 
+Descent 
+Rotate Left 
+Rotate Left 
+Descent 
+Descent 
+Rotate Right 
+Descent 
+Rise 
+View Switching
+View Switching
+Descent 
+Move Left 
+Move Forward 
+Descent 
+Rotate Right 
+Descent 
+Move Left 
+Move Forward 
+Move Right 
+Move Forward 
+Move Right 
+Move Forward 
+Move Right 
+Move Forward 
+Move Right 
+Move Left 
+Move Forward 
+Move Left 
+Move Forward 
+Move Right 
+Move Forward 
+Rise 
+Rise 
+Descent 
+Rise 
+Rise 
+Move Left 
+Rotate Left 
+Rise 
+Move Forward 
+View Switching
+View Switching

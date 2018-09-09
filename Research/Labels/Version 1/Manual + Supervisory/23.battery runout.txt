@@ -1,0 +1,37 @@
+Takeoff
+Launch Inspection Mode
+Return to Supervisory Control
+Takeoff
+Launch Inspection Mode
+Return to Supervisory Control
+Launch Inspection Mode
+Return to Supervisory Control
+Takeoff
+Add Waypoint
+Execute Flightplan
+Launch Inspection Mode
+Return to Supervisory Control
+Launch Inspection Mode
+Move Forward
+Rise
+Rotate Right
+Rotate Left
+Rotate Right
+Move Forward
+Rotate Right
+Rotate Left
+Return to Supervisory Control
+Add Waypoint
+Execute Flightplan
+Launch Inspection Mode
+Return to Supervisory Control
+Add Waypoint
+Execute Flightplan
+Launch Inspection Mode
+Move Forward
+Return to Supervisory Control
+Add Waypoint
+Execute Flightplan
+Launch Inspection Mode
+Return to Supervisory Control
+Land Here

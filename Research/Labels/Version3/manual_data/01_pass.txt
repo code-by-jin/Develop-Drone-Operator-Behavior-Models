@@ -1,0 +1,170 @@
+Rise
+Descent
+Descent
+Move Forward
+Move Left
+Move Forward
+Move Left
+Move Forward
+Rotate Right
+Rotate Right
+Rotate Right
+Rotate Right
+Descent
+Descent
+Descent
+Descent
+Descent
+Descent
+Move Left
+Move Forward
+Rotate Right
+Descent
+Descent
+Rotate Right
+Rotate Right
+Rotate Right
+Descent
+Rise
+Rotate Right
+Descent
+Move Left
+Move Forward
+Rotate Left
+Rise
+Rotate Left
+Rotate Right
+Descent
+Descent
+Move Left
+Move Forward
+Move Left
+Move Forward
+Rotate Right
+Descent
+Rise
+Rise
+Move Left
+Move Forward
+Rotate Right
+Descent
+Rotate Right
+Descent
+Rise
+Rotate Right
+Rotate Right
+Rotate Right
+Rise
+Rotate Right
+Rotate Right
+Move Left
+Move Forward
+Descent
+Rotate Left
+Descent
+Descent
+Descent
+Rise
+Rise
+Descent
+Rotate Left
+Rise
+Descent
+Rise
+Move Left
+Move Forward
+Move Backward
+Move Backward
+Move Right
+Rotate Right
+Descent
+Rotate Left
+Rotate Right
+Rise
+Rotate Right
+Rise
+Rise
+Rise
+Descent
+Move Forward
+Descent
+Rotate Right
+Descent
+Descent
+Rotate Right
+Descent
+Descent
+Descent
+Descent
+Descent
+Descent
+Descent
+Rise
+Descent
+Rise
+Rise
+Descent
+Rise
+Descent
+Rotate Left
+Descent
+Descent
+Descent
+Descent
+Rotate Right
+Rise
+Move Right
+Move Forward
+Move Right
+Move Forward
+Move Right
+Move Forward
+Descent
+Move Backward
+Move Right
+Move Backward
+Move Right
+Move Backward
+Move Right
+Move Backward
+Move Right
+Move Backward
+Move Left
+Move Right
+Move Backward
+Move Right
+Move Backward
+Move Right
+Move Backward
+Move Right
+Move Backward
+Move Backward
+Move Right
+Move Backward
+Move Right
+Move Forward
+Descent
+Descent
+Descent
+Descent
+Move Backward
+Move Forward
+Descent
+Rotate Left
+Rise
+Rise
+Rise
+Move Backward
+Move Forward
+Rotate Right
+Descent
+Rotate Left
+Rotate Right
+Descent
+Rotate Right
+Descent
+Rotate Right
+Descent
+Descent
+Descent
+Descent

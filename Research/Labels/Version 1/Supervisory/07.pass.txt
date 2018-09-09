@@ -1,0 +1,58 @@
+Takeoff
+Launch Inspection Mode
+Rise
+Descent
+Move Forward
+Rotate Right
+Rotate Left
+Descent
+Rotate Right
+Rotate Left
+Rotate Right
+Move Forward
+Descent
+Move Forward
+Rotate Left
+Rotate Right
+Descent
+Rise
+Rotate Left
+Move Forward
+Rotate Right
+Return to Supervisory Control
+Launch Inspection Mode
+Move Forward
+Move Forward
+Rotate Right
+Rise
+Move Forward
+Rotate Right
+Move Forward
+Descent
+Rise
+Move Forward
+Move Forward
+Move Forward
+Move Right
+Move Forward
+Descent
+Move Forward
+Descent
+Rise
+Rotate Right
+Rotate Right
+Rotate Left
+Move Forward
+Move Forward
+Move Left
+Move Forward
+Move Left
+Move Forward
+Rotate Right
+Move Forward
+Rotate Left
+Move Forward
+Rise
+Descent
+Return to Supervisory Control
+Land Here
