@@ -29,4 +29,15 @@ function [Log_Liks, Trans, Emis, Freqs ] = selectModel( path, num_ob_states, num
         Emis{i} = emission;
         Freqs{i} = get_freq(data, num_hidden_states, transition, emission);
     end
+    
+    function freq = get_freq(all_seq, num_hidden, tran, emis)
+        freq = zeros(num_hidden, 1);
+        for j = 1:length(all_seq)
+            estimatedStates = hmmviterbi(all_seq{j},tran,emis);
+            for k = 1:length(estimatedStates)
+                freq(estimatedStates(k)) = freq(estimatedStates(k)) + 1;
+            end
+        end
+    end
+
 end
