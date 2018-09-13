@@ -1,9 +1,0 @@
-Takeoff
-View Switching
-Rotate Left
-Rotate Left
-Rotate Right
-Move BackwardLeft
-Move Backward
-Move BackwardRight
-Move Right
