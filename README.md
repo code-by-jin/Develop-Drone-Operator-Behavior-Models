@@ -9,3 +9,4 @@ MatLab is required to run the code.
 In MatLab command window, Run plotBIC( path, num_ob_states ) 
 
 ### Model Selection
+In MatLab command window, Run \[Log_Liks, Trans, Emis, Freqs ] = selectModel( path, num_ob_states, num_hidden_states )
