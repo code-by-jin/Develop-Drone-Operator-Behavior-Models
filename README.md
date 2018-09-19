@@ -3,3 +3,8 @@ This is the code for develeping human operator behavior models through Hidden Ma
 
 ## Requirement
 MatLab is required to run the code.
+
+## Developing HMM model in this project can be split into two steps.
+### Choose the number of hidden states (plot BIC)
+
+### Model Selection
