@@ -14,3 +14,5 @@ plotBIC( path, num_ob_states )
 In MatLab command window, Run 
 
 \[Log_Liks, Trans, Emis, Freqs ] = selectModel( path, num_ob_states, num_hidden_states )
+
+then select the model based on Log Likelihood, Transition Probabilties and Emission probabilties.
